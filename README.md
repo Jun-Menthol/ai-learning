@@ -29,5 +29,5 @@
 
 ## 📬 联系我
 
-- GitHub：[Jun-Menthol]
+- GitHub：[Jun-Menthol](https://github.com/Jun-Menthol)
 - 邮箱：1633259153@qq.com
